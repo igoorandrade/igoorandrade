@@ -11,6 +11,4 @@
 
 ![Streak](https://streak-stats.demolab.com/?user=igoorandrade&theme=github_dark&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=igoorandrade&theme=github_dark&no-frame=true)
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=igoorandrade&theme=react-dark&hide_border=true)
+![Trophies](https://github-trophies.vercel.app/?username=igoorandrade&theme=github_dark&no-frame=true)
